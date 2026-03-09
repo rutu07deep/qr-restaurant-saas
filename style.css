@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 
 font-family: Arial;
@@ -32,4 +33,40 @@ color:white;
 
 border-radius:5px;
 
+=======
+body{
+
+font-family: Arial;
+
+background:#f4f4f4;
+
+padding:20px;
+
+}
+
+.item{
+
+background:white;
+
+padding:15px;
+
+margin:10px;
+
+border-radius:8px;
+
+}
+
+button{
+
+background:#2ecc71;
+
+border:none;
+
+padding:10px;
+
+color:white;
+
+border-radius:5px;
+
+>>>>>>> cf84f41c87b23dd3041be5859c7c0b45d0f89bb3
 }
